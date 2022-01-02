@@ -6,4 +6,4 @@ It is an exercise at the Odin Project to test all i have been taught in HTML and
 
 Final Design
 
-<img src="Project.png" width="48>
+![image] <img src="Project.png" width="48>
